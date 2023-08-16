@@ -8,15 +8,15 @@ Desde el principios del XXI, el país Argentina ha enfrentado una elevada volati
 ## Objetivo y metodo
 Con base en lo anterior, en este documento intentamos responder a la siguiente pregunta. Si tengo unos pesos argentinos (i.e., activos liquidos en moneda local), ¿cuál seria la mejor manera de construir un portafolio de divisas (compuesto por ARS, USD and una combinación de criptomonedas) para disminuir mi exposición a la volatidad que caracteriza al ARS? Particularmente, ¿cuál seria su composición ideal (%)?
 
-Para responder a esta pregunta, 
-Primero, me concentro en medir el grado de correlación entre ARS, USD y diferentes combinaciones de criptomonedas. Segundo, selecciono la combinación de criptomonedas que NO se mueve en la misma dirección del ARS o del USD. Tercero, no se que haría para identificar su composición ideal.
+Respondo a esta pregunta en tres pasos. Primero, me concentro en medir el grado de correlación entre ARS, USD y diferentes combinaciones de criptomonedas, ajsutando por cambios en la inflacion local. Segundo, selecciono la combinación de criptomonedas que *no se mueve* en la misma dirección del USD y del ARS. Tercero, aún no sé que haría para identificar su composición ideal.
 
- El proyecto esta dividido en 4 partes. En resumen, el proyecto consiste en i. limpiar y normalizar una base datos (ETL), ii. examinar la naturaleza y composicion de los datos (EDA), iii. diseñar e implementar un modelo de semejanza de caracteristicas de casos (ML) para que sirve de base para un sistema de recomendación, y iv. alimentar un dashboard en streamlit.
+ El proyecto esta dividido en 4 partes. En resumen, el proyecto consiste en i. limpiar y normalizar una base datos (ETL), ii. examinar la naturaleza y composicion de los datos (EDA), iii. diseñar e implementar un algoritmo sencillo para determinar la composicion ideal del portafolio de divisas, y iv. alimentar un dashboard en streamlit.
 
 #### 1. ETL
 Para facilitar la lectura, dividimos la fase de ETL en 4 fases:
 1. Extraer datos.
 2. Limpieza de datos.
+3. Algortimo de composicion del portafolio de divisas.
 4. Generar dfs para alimentar las visualizaciones, incluyendo el dashboard.
 
 #### 2. EDA
