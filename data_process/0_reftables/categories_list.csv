@@ -167,43 +167,44 @@
 165,retail,Retail
 166,seigniorage,Seigniorage
 167,sgd-stablcoin,SGD Stablcoin
-168,smart-contract-platform,Smart Contract Platform
-169,socialfi,SocialFi
-170,software,Software
-171,solana-ecosystem,Solana Ecosystem
-172,sports,Sports
-173,stablecoins,Stablecoins
-174,step-network-ecosystem,Step Network Ecosystem
-175,storage,Storage
-176,structured-products,Structured Products
-177,sui-ecosystem,Sui Ecosystem
-178,synthetic-assets,Synthetic Issuer
-179,synths,Synths
-180,technology-science,Technology & Science
-181,telegram-bots,Telegram Bots
-182,tenet-ecosystem,Tenet Ecosystem
-183,terra-ecosystem,Terra Ecosystem
-184,tezos-ecosystem,Tezos Ecosystem
-185,tokenized-btc,Tokenized BTC
-186,tokenized-gold,Tokenized Gold
-187,tokenized-products,Tokenized Products
-188,tokenized-stock,Tokenized Stock
-189,tokensets,TokenSets
-190,tourism,Tourism
-191,try-stablecoins,TRY Stablecoin
-192,usd-stablecoin,USD Stablecoin
-193,us-election-2020,US Election 2020
-194,utokens,uTokens
-195,velas-ecosystem,Velas Ecosystem
-196,virtual-reality,Virtual Reality
-197,wallets,Wallets
-198,wormhole-assets,Wormhole Assets
-199,wrapped-tokens,Wrapped-Tokens
-200,xdc-ecosystem,XDC Ecosystem
-201,yearn-yfi-partnerships-mergers,Yearn Ecosystem
-202,yearn-vault-tokens,Yearn Vault Tokens
-203,yield-aggregator,Yield Aggregator
-204,yield-farming,Yield Farming
-205,zero-knowledge-zk,Zero Knowledge (ZK)
-206,zilliqa-ecosystem,Zilliqa Ecosystem
-207,zksync-ecosystem,ZkSync Ecosystem
+168,shibarium,Shibarium Ecosystem
+169,smart-contract-platform,Smart Contract Platform
+170,socialfi,SocialFi
+171,software,Software
+172,solana-ecosystem,Solana Ecosystem
+173,sports,Sports
+174,stablecoins,Stablecoins
+175,step-network-ecosystem,Step Network Ecosystem
+176,storage,Storage
+177,structured-products,Structured Products
+178,sui-ecosystem,Sui Ecosystem
+179,synthetic-assets,Synthetic Issuer
+180,synths,Synths
+181,technology-science,Technology & Science
+182,telegram-bots,Telegram Bots
+183,tenet-ecosystem,Tenet Ecosystem
+184,terra-ecosystem,Terra Ecosystem
+185,tezos-ecosystem,Tezos Ecosystem
+186,tokenized-btc,Tokenized BTC
+187,tokenized-gold,Tokenized Gold
+188,tokenized-products,Tokenized Products
+189,tokenized-stock,Tokenized Stock
+190,tokensets,TokenSets
+191,tourism,Tourism
+192,try-stablecoins,TRY Stablecoin
+193,usd-stablecoin,USD Stablecoin
+194,us-election-2020,US Election 2020
+195,utokens,uTokens
+196,velas-ecosystem,Velas Ecosystem
+197,virtual-reality,Virtual Reality
+198,wallets,Wallets
+199,wormhole-assets,Wormhole Assets
+200,wrapped-tokens,Wrapped-Tokens
+201,xdc-ecosystem,XDC Ecosystem
+202,yearn-yfi-partnerships-mergers,Yearn Ecosystem
+203,yearn-vault-tokens,Yearn Vault Tokens
+204,yield-aggregator,Yield Aggregator
+205,yield-farming,Yield Farming
+206,zero-knowledge-zk,Zero Knowledge (ZK)
+207,zilliqa-ecosystem,Zilliqa Ecosystem
+208,zksync-ecosystem,ZkSync Ecosystem
