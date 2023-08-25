@@ -1,0 +1,209 @@
+,category_id,name
+0,aave-tokens,Aave Tokens
+1,algorand-ecosystem,Algorand Ecosystem
+2,alleged-sec-securities,Alleged SEC Securities
+3,analytics,Analytics
+4,animal-racing,Animal Racing
+5,animoca-brands,Animoca Brands
+6,aptos-ecosystem,Aptos Ecosystem
+7,arbitrum-ecosystem,Arbitrum Ecosystem
+8,arbitrum-nova-ecosystem,Arbitrum Nova Ecosystem
+9,art,Art
+10,art-blocks-ecosystem,Art Blocks Ecosystem
+11,artificial-intelligence,Artificial Intelligence (AI)
+12,asset-backed-tokens,Asset-backed Tokens
+13,asset-manager,Asset Manager
+14,augmented-reality,Augmented Reality
+15,automated-market-maker-amm,Automated Market Maker (AMM)
+16,avalanche-ecosystem,Avalanche Ecosystem
+17,axie-infinity,Axie Infinity
+18,azuki-ecosystem,Azuki Ecosystem
+19,base-ecosystem,Base Ecosystem
+20,big-data,Big Data
+21,binance-launchpad,Binance Launchpad
+22,binance-launchpool,Binance Launchpool
+23,binance-smart-chain,BNB Chain Ecosystem
+24,bored-ape-ecosystem,Bored Ape Ecosystem
+25,brc-20,BRC-20
+26,bridge-governance-tokens,Bridge Governance Tokens
+27,business-platform,Business Platform
+28,business-services,Business Services
+29,canto-ecosystem,Canto Ecosystem
+30,cardano-ecosystem,Cardano Ecosystem
+31,celer-network,Celer Network
+32,celo-ecosystem,Celo Ecosystem
+33,centralized-exchange-token-cex,Centralized Exchange (CEX)
+34,charity,Charity
+35,cny-stablecoin,CNY Stablecoin
+36,collectibles,Collectibles
+37,communication,Communication
+38,compound-tokens,Compound Tokens
+39,cosmos-ecosystem,Cosmos Ecosystem
+40,cronos-ecosystem,Cronos Ecosystem
+41,cryptocurrency,Cryptocurrency
+42,ctokens,cToken
+43,cyberkongz-ecosystem,CyberKongz Ecosystem
+44,daomaker-ecosystem,DaoMaker Ecosystem
+45,decentralized-exchange,Decentralized Exchange (DEX)
+46,decentralized-finance-defi,Decentralized Finance (DeFi)
+47,defi-index,DeFi Index
+48,delabs,DeLabs
+49,depin,DePIN
+50,decentralized-derivatives,Derivatives
+51,discord-bots,Discord Bots
+52,doodles-llc,Doodles LLC
+53,edgeware-ecosystem,Edgeware Ecosystem
+54,education,Education
+55,energy,Energy
+56,entertainment,Entertainment
+57,eco-friendly,Environment
+58,etf,ETF
+59,eth-2-0-staking,Eth 2.0 Staking
+60,ethereum-ecosystem,Ethereum Ecosystem
+61,ethereum-pos-iou,Ethereum PoS IOU
+62,ethereumpow-ecosystem,EthereumPoW Ecosystem
+63,ethereum-pow-iou,Ethereum PoW IOU
+64,eur-stablecoin,EUR Stablecoin
+65,exchange-based-tokens,Exchange-based Tokens
+66,f1-partnership,F1 Partnership
+67,fan-token,Fan Token
+68,fantom-ecosystem,Fantom Ecosystem
+69,farming-as-a-service-faas,Farming-as-a-Service (FaaS)
+70,finance-banking,Finance / Banking
+71,fixed-interest,Fixed Interest
+72,fractionalized-nft,Fractionalized NFT
+73,friend-tech,friend.tech
+74,gambling,Gambling
+75,gaming,Gaming (GameFi)
+76,gbp-stablecoin,GBP Stablecoin
+77,gig-economy,Gig Economy
+78,xdai-ecosystem,Gnosis Chain Ecosystem
+79,gotchiverse,Gotchiverse
+80,governance,Governance
+81,guild-scholarship,Guild and Scholarship
+82,harmony-ecosystem,Harmony Ecosystem
+83,healthcare,Healthcare
+84,heco-chain-ecosystem,HECO Chain Ecosystem
+85,identity,Identity
+86,idr-stablecoin,IDR Stablecoin
+87,impossible-launchpad,Impossible Launchpad
+88,index-coin,Index
+89,infrastructure,Infrastructure
+90,insurance,Insurance
+91,dfinity-ecosystem,Internet Computer Ecosystem
+92,internet-of-things-iot,Internet of Things (IOT)
+93,interoperability,Interoperability
+94,investment,Investment
+95,iotex-ecosystem,IoTeX Ecosystem
+96,iou-tokens,IOU tokens
+97,jack-butcher-ecosystem,Jack Butcher Ecosystem
+98,jpy-stablecoin,JPY Stablecoin
+99,kardiachain-ecosystem,KardiaChain Ecosystem
+100,klaytn-ecosystem,Klaytn Ecosystem
+101,kommunitas,Kommunitas Launchpad
+102,krw-stablecoin,KRW Stablecoin
+103,large-cap,Large-Cap PFP
+104,launchpad,Launchpad
+105,layer-1,Layer 1 (L1)
+106,layer-2,Layer 2 (L2)
+107,legal,Legal
+108,lending-borrowing,Lending/Borrowing
+109,leveraged-token,Leveraged Token
+110,linea-ecosystem,Linea Ecosystem
+111,liquid-staking-governance-tokens,Liquid Staking Governance Tokens
+112,liquid-staking-tokens,Liquid Staking Tokens
+113,lp-tokens,LP Tokens
+114,lsdfi,LSDFi
+115,mantle-ecosystem,Mantle Ecosystem
+116,manufacturing,Manufacturing
+117,marketing,Marketing
+118,masternodes,Masternodes
+119,media,Media
+120,meme-token,Meme
+121,memeland-ecosystem,Memeland Ecosystem
+122,metagovernance,Metagovernance
+123,metaverse,Metaverse
+124,metis-ecosystem,Metis Ecosystem
+125,mev-protection,MEV Protection
+126,mid-cap,Mid-Cap PFP
+127,mirrored-assets,Mirrored Assets
+128,moonbeam-ecosystem,Moonbeam Ecosystem
+129,moonriver-ecosystem,Moonriver Ecosystem
+130,move-to-earn,Move To Earn
+131,multversx-ecosystem,MultiversX Ecosystem
+132,music,Music
+133,near-protocol-ecosystem,Near Protocol Ecosystem
+134,non-fungible-tokens-nft,NFT
+135,nft-index,NFT Index
+136,nft-marketplace,NFT Marketplace
+137,niftex-shards,Niftex Shards
+138,nounsdao,NounsDAO
+139,number,Number
+140,ocm-ecosystem,OCM Ecosystem
+141,oec-ecosystem,OEC Ecosystem
+142,ohm-fork,Ohm Fork
+143,olympus-pro,Olympus Pro
+144,optimism-ecosystem,Optimism Ecosystem
+145,decentralized-options,Options
+146,oracle,Oracle
+147,payment-solutions,Payment Solutions
+148,decentralized-perpetuals,Perpetuals
+149,pfp-avatar,PFP / Avatar
+150,play-to-earn,Play To Earn
+151,dot-ecosystem,Polkadot Ecosystem
+152,polygon-ecosystem,Polygon Ecosystem
+153,prediction-markets,Prediction Markets
+154,privacy-coins,Privacy Coins
+155,proof-ecosystem,Proof Ecosystem
+156,protocol,Protocol
+157,pudgy-ecosystem,Pudgy Ecosystem
+158,pulsechain-ecosystem,PulseChain Ecosystem
+159,real-estate,Real Estate
+160,realt-tokens,RealT Tokens
+161,real-world-assets-rwa,Real World Assets (RWA)
+162,rebase-tokens,Rebase Tokens
+163,reddit-points,Reddit Points
+164,remittance,Remittance
+165,retail,Retail
+166,seigniorage,Seigniorage
+167,sgd-stablcoin,SGD Stablcoin
+168,smart-contract-platform,Smart Contract Platform
+169,socialfi,SocialFi
+170,software,Software
+171,solana-ecosystem,Solana Ecosystem
+172,sports,Sports
+173,stablecoins,Stablecoins
+174,step-network-ecosystem,Step Network Ecosystem
+175,storage,Storage
+176,structured-products,Structured Products
+177,sui-ecosystem,Sui Ecosystem
+178,synthetic-assets,Synthetic Issuer
+179,synths,Synths
+180,technology-science,Technology & Science
+181,telegram-bots,Telegram Bots
+182,tenet-ecosystem,Tenet Ecosystem
+183,terra-ecosystem,Terra Ecosystem
+184,tezos-ecosystem,Tezos Ecosystem
+185,tokenized-btc,Tokenized BTC
+186,tokenized-gold,Tokenized Gold
+187,tokenized-products,Tokenized Products
+188,tokenized-stock,Tokenized Stock
+189,tokensets,TokenSets
+190,tourism,Tourism
+191,try-stablecoins,TRY Stablecoin
+192,usd-stablecoin,USD Stablecoin
+193,us-election-2020,US Election 2020
+194,utokens,uTokens
+195,velas-ecosystem,Velas Ecosystem
+196,virtual-reality,Virtual Reality
+197,wallets,Wallets
+198,wormhole-assets,Wormhole Assets
+199,wrapped-tokens,Wrapped-Tokens
+200,xdc-ecosystem,XDC Ecosystem
+201,yearn-yfi-partnerships-mergers,Yearn Ecosystem
+202,yearn-vault-tokens,Yearn Vault Tokens
+203,yield-aggregator,Yield Aggregator
+204,yield-farming,Yield Farming
+205,zero-knowledge-zk,Zero Knowledge (ZK)
+206,zilliqa-ecosystem,Zilliqa Ecosystem
+207,zksync-ecosystem,ZkSync Ecosystem
