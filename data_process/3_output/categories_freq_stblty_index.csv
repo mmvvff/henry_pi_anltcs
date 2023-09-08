@@ -1,74 +1,74 @@
-,category,count,count_shr,cat_percentil
-0,Layer 1 (L1),5,100.0,alta
-1,Smart Contract Platform,4,80.0,alta
-2,Alleged SEC Securities,2,40.0,alta
-3,Ethereum Ecosystem,2,40.0,alta
-4,Harmony Ecosystem,2,40.0,alta
-5,Fantom Ecosystem,1,20.0,alta
-6,Moonriver Ecosystem,1,20.0,alta
-7,BNB Chain Ecosystem,1,20.0,alta
-8,Infrastructure,1,20.0,alta
-9,Cronos Ecosystem,1,20.0,alta
-10,Cosmos Ecosystem,1,20.0,alta
-11,Cryptocurrency,1,20.0,alta
-12,Centralized Exchange (CEX),1,20.0,alta
-13,Exchange-based Tokens,1,20.0,alta
-14,Cardano Ecosystem,1,20.0,alta
-15,Algorand Ecosystem,1,20.0,alta
-16,Protocol,1,20.0,alta
-0,Layer 1 (L1),6,100.0,baja
-1,Smart Contract Platform,4,66.67,baja
-2,Alleged SEC Securities,2,33.33,baja
-3,BNB Chain Ecosystem,2,33.33,baja
-4,Ethereum Ecosystem,2,33.33,baja
-5,Cryptocurrency,2,33.33,baja
-6,Exchange-based Tokens,1,16.67,baja
-7,Centralized Exchange (CEX),1,16.67,baja
-8,Avalanche Ecosystem,1,16.67,baja
-9,Moonriver Ecosystem,1,16.67,baja
-10,Polygon Ecosystem,1,16.67,baja
-11,Cosmos Ecosystem,1,16.67,baja
-12,Canto Ecosystem,1,16.67,baja
-13,Tezos Ecosystem,1,16.67,baja
-0,Stablecoins,5,100.0,alta
-1,USD Stablecoin,5,100.0,alta
-2,Polygon Ecosystem,5,100.0,alta
-3,Harmony Ecosystem,5,100.0,alta
-4,Fantom Ecosystem,5,100.0,alta
-5,Ethereum Ecosystem,5,100.0,alta
-6,Cronos Ecosystem,4,80.0,alta
-7,Arbitrum Ecosystem,4,80.0,alta
-8,Near Protocol Ecosystem,4,80.0,alta
-9,Avalanche Ecosystem,4,80.0,alta
-10,BNB Chain Ecosystem,4,80.0,alta
-11,Velas Ecosystem,4,80.0,alta
-12,Moonbeam Ecosystem,4,80.0,alta
-13,Moonriver Ecosystem,4,80.0,alta
-14,Gnosis Chain Ecosystem,4,80.0,alta
-15,Metis Ecosystem,3,60.0,alta
-16,Optimism Ecosystem,3,60.0,alta
-17,Arbitrum Nova Ecosystem,2,40.0,alta
-18,Mantle Ecosystem,2,40.0,alta
-19,Solana Ecosystem,2,40.0,alta
-20,Canto Ecosystem,2,40.0,alta
-21,EthereumPoW Ecosystem,1,20.0,alta
-22,Alleged SEC Securities,1,20.0,alta
-23,Decentralized Finance (DeFi),1,20.0,alta
-24,Tezos Ecosystem,1,20.0,alta
-25,Base Ecosystem,1,20.0,alta
-26,ZkSync Ecosystem,1,20.0,alta
-0,Stablecoins,5,100.0,baja
-1,Ethereum Ecosystem,5,100.0,baja
-2,Finance / Banking,2,40.0,baja
-3,Polygon Ecosystem,2,40.0,baja
-4,USD Stablecoin,2,40.0,baja
-5,BNB Chain Ecosystem,1,20.0,baja
-6,Solana Ecosystem,1,20.0,baja
-7,Avalanche Ecosystem,1,20.0,baja
-8,TRY Stablecoin,1,20.0,baja
-9,Asset-backed Tokens,1,20.0,baja
-10,Tokenized Gold,1,20.0,baja
-11,Harmony Ecosystem,1,20.0,baja
-12,Cryptocurrency,1,20.0,baja
-13,EUR Stablecoin,1,20.0,baja
-14,XDC Ecosystem,1,20.0,baja
+,category,count,count_shr,cat_percentil,category_id
+0,Layer 1 (L1),5,100.0,alta,layer-1
+1,Smart Contract Platform,4,80.0,alta,layer-1
+2,Alleged SEC Securities,2,40.0,alta,layer-1
+3,Ethereum Ecosystem,2,40.0,alta,layer-1
+4,Harmony Ecosystem,2,40.0,alta,layer-1
+5,Fantom Ecosystem,1,20.0,alta,layer-1
+6,Moonriver Ecosystem,1,20.0,alta,layer-1
+7,BNB Chain Ecosystem,1,20.0,alta,layer-1
+8,Infrastructure,1,20.0,alta,layer-1
+9,Cronos Ecosystem,1,20.0,alta,layer-1
+10,Cosmos Ecosystem,1,20.0,alta,layer-1
+11,Cryptocurrency,1,20.0,alta,layer-1
+12,Centralized Exchange (CEX),1,20.0,alta,layer-1
+13,Exchange-based Tokens,1,20.0,alta,layer-1
+14,Cardano Ecosystem,1,20.0,alta,layer-1
+15,Algorand Ecosystem,1,20.0,alta,layer-1
+16,Protocol,1,20.0,alta,layer-1
+0,Layer 1 (L1),6,100.0,baja,layer-1
+1,Smart Contract Platform,4,66.67,baja,layer-1
+2,Alleged SEC Securities,2,33.33,baja,layer-1
+3,BNB Chain Ecosystem,2,33.33,baja,layer-1
+4,Ethereum Ecosystem,2,33.33,baja,layer-1
+5,Cryptocurrency,2,33.33,baja,layer-1
+6,Exchange-based Tokens,1,16.67,baja,layer-1
+7,Centralized Exchange (CEX),1,16.67,baja,layer-1
+8,Avalanche Ecosystem,1,16.67,baja,layer-1
+9,Moonriver Ecosystem,1,16.67,baja,layer-1
+10,Polygon Ecosystem,1,16.67,baja,layer-1
+11,Cosmos Ecosystem,1,16.67,baja,layer-1
+12,Canto Ecosystem,1,16.67,baja,layer-1
+13,Tezos Ecosystem,1,16.67,baja,layer-1
+0,Stablecoins,5,100.0,alta,stablecoins
+1,USD Stablecoin,5,100.0,alta,stablecoins
+2,Polygon Ecosystem,5,100.0,alta,stablecoins
+3,Harmony Ecosystem,5,100.0,alta,stablecoins
+4,Fantom Ecosystem,5,100.0,alta,stablecoins
+5,Ethereum Ecosystem,5,100.0,alta,stablecoins
+6,Cronos Ecosystem,4,80.0,alta,stablecoins
+7,Arbitrum Ecosystem,4,80.0,alta,stablecoins
+8,Near Protocol Ecosystem,4,80.0,alta,stablecoins
+9,Avalanche Ecosystem,4,80.0,alta,stablecoins
+10,BNB Chain Ecosystem,4,80.0,alta,stablecoins
+11,Velas Ecosystem,4,80.0,alta,stablecoins
+12,Moonbeam Ecosystem,4,80.0,alta,stablecoins
+13,Moonriver Ecosystem,4,80.0,alta,stablecoins
+14,Gnosis Chain Ecosystem,4,80.0,alta,stablecoins
+15,Metis Ecosystem,3,60.0,alta,stablecoins
+16,Optimism Ecosystem,3,60.0,alta,stablecoins
+17,Arbitrum Nova Ecosystem,2,40.0,alta,stablecoins
+18,Mantle Ecosystem,2,40.0,alta,stablecoins
+19,Solana Ecosystem,2,40.0,alta,stablecoins
+20,Canto Ecosystem,2,40.0,alta,stablecoins
+21,EthereumPoW Ecosystem,1,20.0,alta,stablecoins
+22,Alleged SEC Securities,1,20.0,alta,stablecoins
+23,Decentralized Finance (DeFi),1,20.0,alta,stablecoins
+24,Tezos Ecosystem,1,20.0,alta,stablecoins
+25,Base Ecosystem,1,20.0,alta,stablecoins
+26,ZkSync Ecosystem,1,20.0,alta,stablecoins
+0,Stablecoins,5,100.0,baja,stablecoins
+1,Ethereum Ecosystem,5,100.0,baja,stablecoins
+2,Finance / Banking,2,40.0,baja,stablecoins
+3,Polygon Ecosystem,2,40.0,baja,stablecoins
+4,USD Stablecoin,2,40.0,baja,stablecoins
+5,BNB Chain Ecosystem,1,20.0,baja,stablecoins
+6,Solana Ecosystem,1,20.0,baja,stablecoins
+7,Avalanche Ecosystem,1,20.0,baja,stablecoins
+8,TRY Stablecoin,1,20.0,baja,stablecoins
+9,Asset-backed Tokens,1,20.0,baja,stablecoins
+10,Tokenized Gold,1,20.0,baja,stablecoins
+11,Harmony Ecosystem,1,20.0,baja,stablecoins
+12,Cryptocurrency,1,20.0,baja,stablecoins
+13,EUR Stablecoin,1,20.0,baja,stablecoins
+14,XDC Ecosystem,1,20.0,baja,stablecoins
