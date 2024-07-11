@@ -53,4 +53,4 @@ Esta fase incluye dos partes:
 En esta fase, exploramos los datos con el fin de responder a nuestras preguntas.
 
 ### 3. Dashboard
-Desarrollamos nuestro dashboard en Tableau Public: acceso.
+Desarrollamos 2 dashboards en Tableau Public: [presentación](https://public.tableau.com/views/henry_anlytcs_v1/presentacion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) y [dashboard interactivo](https://public.tableau.com/views/henry_anlytcs_dshbrd/dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
